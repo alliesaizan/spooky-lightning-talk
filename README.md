@@ -1,5 +1,5 @@
 
-# A very spookly lightning talk
+# A very spooky lightning talk :jack_o_lantern:
 
 ## Overview
 
@@ -21,6 +21,6 @@ In the Jupyter notebook [Reddit posts cleaning.ipynb](https://github.com/alliesa
 
 I leveraged the [GPT-2 model](https://colab.research.google.com/drive/1K471UPqVbNQjRLlYoJCNElRPcsb61uia) in a Google Colab notebook using the gpt-simple Python package. gpt-simple is a wrapper for the GPT-2 module that enables text generation. The Colab notebook was developed by Max Woolf, and the only edits I made were to upload my data and tune the temperature parameter of the generate() method. The temperature parameter alters the randomness of the generated results. The model took a few hours to fully train. I exported the generated text to the file *gpt2_gentext_20191006.txt*.
 
-### Findings
+## Findings
 
 I found that GPT-2 was surprisingly good at replicating narrative structures and conversations. However, it did a poor job of replicating scares. The GPT-2 generated stories were mostly all set-up and no thrills. Creepypasta stories tend to have lengthy set-up, and I supect the model mistakes this part of the story as being narratively important. The generated stories also tended to repeat words or phrases nonsensically, and this problem was worse with higher values of the temperature parameter. I did get some pretty funny outcomes though, including one story with "I'm sorry" repeated over and over.
