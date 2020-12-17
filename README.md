@@ -3,7 +3,7 @@
 
 ## Overview
 
-The goal of this proect was to experiment with leading-edge NLP models in a way that celebraates the best holiday season (Halloween!). I trained the OpenAI's GPT-2 model on Reddit creepy stories, with the goal of generating new stories! I implemented [the model](https://colab.research.google.com/drive/1K471UPqVbNQjRLlYoJCNElRPcsb61uia) in Google Colab. I presented the results of this project in an October 2019 [Women Who Code DC Lightning Talk](https://docs.google.com/presentation/d/e/2PACX-1vTEMALPHw-yQRXVnJBP_nj0yeqW60jLnGLIRgdfDziqJzcX7SiSUbbx1jLaGSeWqeFjkIG7odo3wuyj/pub?start=false&loop=false&delayms=3000). This repository stores the data outputted by the GPT model and the cleaning script used to preprocess the text data.
+The goal of this proect was to experiment with emerging language transformer models in a way that celebrates the best holiday season (Halloween!). I trained the OpenAI's GPT-2 model on Reddit creepy stories, with the goal of generating new stories! I implemented [the model](https://colab.research.google.com/drive/1K471UPqVbNQjRLlYoJCNElRPcsb61uia) in Google Colab. I presented the results of this project in an October 2019 [Women Who Code DC Lightning Talk](https://docs.google.com/presentation/d/e/2PACX-1vTEMALPHw-yQRXVnJBP_nj0yeqW60jLnGLIRgdfDziqJzcX7SiSUbbx1jLaGSeWqeFjkIG7odo3wuyj/pub?start=false&loop=false&delayms=3000). This repository stores the data outputted by the GPT model and the cleaning script used to preprocess the text data.
 
 ## Motivation
 
